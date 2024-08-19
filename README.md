@@ -23,13 +23,13 @@ Best vanilla theme for yuor zsh terminal (using without ohmyzsh).
 ## install
 
 ```sh
-curl 'https://raw.githubusercontent.com/jakbin/myzsh/main/install.sh' | sh
+curl 'https://raw.githubusercontent.com/alvin-revoers/myzsh/main/install.sh' | sh
 ```
 
 ## install plugins
 
 ```sh
-wget 'https://raw.githubusercontent.com/jakbin/myzsh/main/plugin-install.sh' && bash plugin-install.sh
+wget 'https://raw.githubusercontent.com/alvin-revoers/myzsh/main/plugin-install.sh' && bash plugin-install.sh
 ```
 
 ## Tutorial
