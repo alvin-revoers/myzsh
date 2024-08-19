@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # check if .zshrc file exits
-File=/home/$USER/.zshrc
+File=~/home/$USER/.zshrc
 if [ -f "$File" ]; then
 	echo "$File exists."
 	mv /home/$USER/.zshrc /home/$USER/zshrc-backup.sh
